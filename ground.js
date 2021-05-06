@@ -14,6 +14,7 @@ class ground
 
 	}
 	display()
+	//hiih
 	{
 			var groundPos=this.body.position;		
 			push()
